@@ -21,7 +21,6 @@ botaoAdicionar.addEventListener("click", (evento) => {
 
     containerItemDaLista.appendChild(inputCheckbox);
     containerItemDaLista.appendChild(nomeItem);
-
     itemDaLista.appendChild(containerItemDaLista);
     listaDeCompras.appendChild(itemDaLista);
 })
